@@ -67,7 +67,7 @@ Feel free to explore, experiment, and contribute to our research efforts. We enc
 
 ## Contributing
 
-We welcome contributions from researchers, developers, and enthusiasts interested in quantum computing and AI. To contribute to this project, please follow our [contribution guidelines](contribution.md).
+We welcome contributions from researchers, developers, and enthusiasts interested in quantum computing and AI. To contribute to this project, please follow our [contribution guidelines](CONTRIBUTION.md).
 
 ## License
 
