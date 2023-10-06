@@ -1,4 +1,4 @@
-# NECROZMA - Quantum Computing and Artificial Intelligence Research Project
+# NECROZMA - Quantum Computing and Artificial Intelligence Research 
 
 ## Table of Contents
 
