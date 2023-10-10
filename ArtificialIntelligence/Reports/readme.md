@@ -38,7 +38,7 @@ While this repository primarily serves as a repository for research reports, we 
 
 ## Contact Us
 
-If you have any inquiries, questions, or would like to discuss AI research further, please don't hesitate to 'contact.necrozma.ai@gmail.com' .
+If you have any inquiries, questions, or would like to discuss AI research further, please don't hesitate to [Contact us](contact.necrozma.ai@gmail.com).
 
 Thank you for your interest in AI research. We hope you find these reports informative and valuable in your own AI explorations and studies.
 
