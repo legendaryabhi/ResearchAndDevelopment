@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for your interest in our Quantum Computing and Artificial Intelligence Research Project! If you have any questions, suggestions, or feedback, please don't hesitate to [contact us](mailto:your-email@example.com). We look forward to collaborating with you on this exciting journey into the future of technology.
+Thank you for your interest in our Quantum Computing and Artificial Intelligence Research Project! If you have any questions, suggestions, or feedback, please don't hesitate to [contact us](contact.necrozma.ai@gmail.com). We look forward to collaborating with you on this exciting journey into the future of technology.
