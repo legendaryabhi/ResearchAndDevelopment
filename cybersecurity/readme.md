@@ -9,7 +9,7 @@ We welcome contributions and collaborations from the cybersecurity and quantum c
 
 ## Contact Us
 
-For inquiries, collaborations, or questions about our research, please don't hesitate to [contact us](mailto:contact@yourdomain.com).
+For inquiries, collaborations, or questions about our research, please don't hesitate to [contact us](contact.necrozma.ai@gmail.com).
 
 Thank you for your interest in our cybersecurity R&D efforts. Together, we can make cyberspace more secure through the power of AI and quantum computing.
 
