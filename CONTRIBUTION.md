@@ -50,6 +50,6 @@ Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) in place. We ex
 
 ## Get in Touch
 
-If you have questions, need clarification, or want to discuss potential contributions, please feel free to reach out to us via [email](mailto:your-email@example.com) or by creating an issue on this repository.
+If you have questions, need clarification, or want to discuss potential contributions, please feel free to reach out to us via [email](contact.necrozma.ai@gmail.com) or by creating an issue on this repository.
 
 Thank you for joining us on this exciting journey to leverage quantum computing and AI research to address the world's most significant challenges. Together, we can make a difference!
